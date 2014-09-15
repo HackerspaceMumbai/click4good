@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Click4Good</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="Click">Click</string>
+	<string name="Instructions">Instructions</string>
+	<string name="Gallery">Gallery</string>
+	<string name="ABCD">abcd</string>
+</resources>
